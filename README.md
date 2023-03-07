@@ -1,6 +1,5 @@
-# Net-Checker
-Simple and smart network scanner for academic purposes.
+# NetFisher
 
-SMTP sending mails is not working until you add your Gmail SMPT keys.
+Simple and smart network scanner for academic purposes.
 
 I am not responsible for the use that can be given to this program.
